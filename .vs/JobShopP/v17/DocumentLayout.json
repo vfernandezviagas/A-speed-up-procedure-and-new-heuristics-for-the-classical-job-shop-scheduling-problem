@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Dropbox\\Trabajo Uni\\Investigacion\\Produccion\\JobShop\\Codigo\\JobShop_GitHub_Subido\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1992A45A-84D4-4709-8DF4-07ECCBC8C9C8}|JobShopP\\JobShop.csproj|c:\\users\\usuario\\dropbox\\trabajo uni\\investigacion\\produccion\\jobshop\\codigo\\jobshop_github_subido\\jobshopp\\clasesolucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1992A45A-84D4-4709-8DF4-07ECCBC8C9C8}|JobShopP\\JobShop.csproj|solutionrelative:jobshopp\\clasesolucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1992A45A-84D4-4709-8DF4-07ECCBC8C9C8}|JobShopP\\JobShop.csproj|c:\\users\\usuario\\dropbox\\trabajo uni\\investigacion\\produccion\\jobshop\\codigo\\jobshop_github_subido\\jobshopp\\clasedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1992A45A-84D4-4709-8DF4-07ECCBC8C9C8}|JobShopP\\JobShop.csproj|solutionrelative:jobshopp\\clasedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1992A45A-84D4-4709-8DF4-07ECCBC8C9C8}|JobShopP\\JobShop.csproj|c:\\users\\usuario\\dropbox\\trabajo uni\\investigacion\\produccion\\jobshop\\codigo\\jobshop_github_subido\\jobshopp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1992A45A-84D4-4709-8DF4-07ECCBC8C9C8}|JobShopP\\JobShop.csproj|solutionrelative:jobshopp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "claseSolucion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Dropbox\\Trabajo Uni\\Investigacion\\Produccion\\JobShop\\Codigo\\JobShop_GitHub_Subido\\JobShopP\\claseSolucion.cs",
+              "RelativeDocumentMoniker": "JobShopP\\claseSolucion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Dropbox\\Trabajo Uni\\Investigacion\\Produccion\\JobShop\\Codigo\\JobShop_GitHub_Subido\\JobShopP\\claseSolucion.cs",
+              "RelativeToolTip": "JobShopP\\claseSolucion.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:41:11.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "claseDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Dropbox\\Trabajo Uni\\Investigacion\\Produccion\\JobShop\\Codigo\\JobShop_GitHub_Subido\\JobShopP\\claseDatos.cs",
+              "RelativeDocumentMoniker": "JobShopP\\claseDatos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Dropbox\\Trabajo Uni\\Investigacion\\Produccion\\JobShop\\Codigo\\JobShop_GitHub_Subido\\JobShopP\\claseDatos.cs",
+              "RelativeToolTip": "JobShopP\\claseDatos.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:41:09.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Dropbox\\Trabajo Uni\\Investigacion\\Produccion\\JobShop\\Codigo\\JobShop_GitHub_Subido\\JobShopP\\Program.cs",
+              "RelativeDocumentMoniker": "JobShopP\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Dropbox\\Trabajo Uni\\Investigacion\\Produccion\\JobShop\\Codigo\\JobShop_GitHub_Subido\\JobShopP\\Program.cs",
+              "RelativeToolTip": "JobShopP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoFAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:38:32.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

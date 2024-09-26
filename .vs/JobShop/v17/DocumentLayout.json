@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Dropbox\\Trabajo Uni\\Investigacion\\Produccion\\JobShop\\Codigo\\JobShop_GitHub_Subido\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|JobShop||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1992A45A-84D4-4709-8DF4-07ECCBC8C9C8}|FlowShop\\JobShop.csproj|c:\\users\\usuario\\dropbox\\trabajo uni\\investigacion\\produccion\\jobshop\\codigo\\jobshop_github_subido\\flowshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1992A45A-84D4-4709-8DF4-07ECCBC8C9C8}|FlowShop\\JobShop.csproj|solutionrelative:flowshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1992A45A-84D4-4709-8DF4-07ECCBC8C9C8}|FlowShop\\JobShop.csproj|c:\\users\\usuario\\dropbox\\trabajo uni\\investigacion\\produccion\\jobshop\\codigo\\jobshop_github_subido\\flowshop\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobShop",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Dropbox\\Trabajo Uni\\Investigacion\\Produccion\\JobShop\\Codigo\\JobShop_GitHub_Subido\\FlowShop\\JobShop.csproj",
+              "RelativeDocumentMoniker": "FlowShop\\JobShop.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Dropbox\\Trabajo Uni\\Investigacion\\Produccion\\JobShop\\Codigo\\JobShop_GitHub_Subido\\FlowShop\\JobShop.csproj",
+              "RelativeToolTip": "FlowShop\\JobShop.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-09-11T11:56:49.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "e37183fd-3b59-4443-92c1-cb2428697313",
+        "Display": 0,
+        "X": 182,
+        "Y": 240,
+        "Width": 1528,
+        "Height": 784,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Dropbox\\Trabajo Uni\\Investigacion\\Produccion\\JobShop\\Codigo\\JobShop_GitHub_Subido\\FlowShop\\Program.cs",
+              "RelativeDocumentMoniker": "FlowShop\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Dropbox\\Trabajo Uni\\Investigacion\\Produccion\\JobShop\\Codigo\\JobShop_GitHub_Subido\\FlowShop\\Program.cs",
+              "RelativeToolTip": "FlowShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwPMGAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:07:08.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

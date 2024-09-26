@@ -1,0 +1,7 @@
+C:\Users\Usuario\Dropbox\Trabajo Uni\Investigacion\Produccion\JobShop\Codigo\JobShop_GitHub_Subido\JobShopP\bin\Debug\JobShop.exe.config
+C:\Users\Usuario\Dropbox\Trabajo Uni\Investigacion\Produccion\JobShop\Codigo\JobShop_GitHub_Subido\JobShopP\bin\Debug\JobShop.exe
+C:\Users\Usuario\Dropbox\Trabajo Uni\Investigacion\Produccion\JobShop\Codigo\JobShop_GitHub_Subido\JobShopP\bin\Debug\JobShop.pdb
+C:\Users\Usuario\Dropbox\Trabajo Uni\Investigacion\Produccion\JobShop\Codigo\JobShop_GitHub_Subido\JobShopP\obj\x86\Debug\JobShop.csproj.AssemblyReference.cache
+C:\Users\Usuario\Dropbox\Trabajo Uni\Investigacion\Produccion\JobShop\Codigo\JobShop_GitHub_Subido\JobShopP\obj\x86\Debug\JobShop.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Dropbox\Trabajo Uni\Investigacion\Produccion\JobShop\Codigo\JobShop_GitHub_Subido\JobShopP\obj\x86\Debug\JobShop.exe
+C:\Users\Usuario\Dropbox\Trabajo Uni\Investigacion\Produccion\JobShop\Codigo\JobShop_GitHub_Subido\JobShopP\obj\x86\Debug\JobShop.pdb
